@@ -6,7 +6,17 @@
             int fromUnit, toUnit;
             double distance;
 
-            while (true) // keep looping until a valid input is entered
+
+
+        Console.WriteLine("----------------------------------------------------------------------");
+        Console.WriteLine("         BNU-CO453 Application Programming 2022 - 2023               ");
+        Console.WriteLine("----------------------------------------------------------------------\n\n");
+
+
+        Console.WriteLine("APP01 DISTANCE CONVERTER");
+        Console.WriteLine("BY SHIVAM YADAV\n\n");
+        
+        while (true) // keep looping until a valid input is entered
             {
                 Console.WriteLine("Please select the unit to convert from:");
                 Console.WriteLine("1. Miles");
